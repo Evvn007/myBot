@@ -10,7 +10,7 @@ from pathlib import Path
 # ─────────────────────────────────────────────
 #  BOT CREDENTIALS
 # ─────────────────────────────────────────────
-BOT_TOKEN: str = os.getenv("BOT_TOKEN","8650241437:AAGlv1B3VWlJ8md4auPvpfsMzHGbsmatIsQ")
+BOT_TOKEN: str = os.getenv("BOT_TOKEN","8611032252:AAH7tChBVh21_K-Z-PsUHdlS9Ys7CcHcFnw")
 
 if not BOT_TOKEN:
     raise EnvironmentError(
